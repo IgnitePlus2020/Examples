@@ -6,6 +6,7 @@ Examples based on technical topics covered
 * if-else statement
 * if-elseif ladder
 * switch
+
 2.Looping statements :
 * for
 * while
